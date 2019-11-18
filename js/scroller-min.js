@@ -1,0 +1,1 @@
+document.getElementById("handle").onclick=function(){slideSource.className?document.getElementById("#cycler").className="":document.getElementById("#cycler").className="fade"};
